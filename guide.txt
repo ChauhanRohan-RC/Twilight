@@ -1,0 +1,30 @@
+============================================================
+===============    TWILIGHT Guide     =============================
+============================================================
+
+-> Installation
+1. extract Twilight setup zip in a directory
+2. run installer.exe as Administrator
+3. Read Software info carefully, specify installation directory and click next
+4. Installation will begin !! Wait for it to complete....
+5. To start TWILIGHT, head to search bar or installation directory and type Twilight and run Twilight.exe
+6. Enjoy !!!
+
+-> Registry Fix
+1. To fix registry problems, head to installation directory and run REG.exe
+2. It will reset all registry setting for the program...
+
+-> Update
+1. Download update file (.rcup) from Author
+2. run Update.exe or head to settings --> Update in Twilight.....
+3. specify the location of Update file
+4. Update will begin....
+
+-> Uninstall
+1. To UnInstall Twilight run Uninstall.exe or go to Control Panel --> Uninstall Programs --> Twilight v{current version}
+2. Follow the on screen instructions.....
+
+-> Support
+Author: Rohan Chauhan
+Email : com.production.rc@gmail.com
+1. Please contact to the email in case of bug or crash...
