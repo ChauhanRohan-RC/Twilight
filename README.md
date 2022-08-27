@@ -2,9 +2,9 @@
 
 # A Poweful, Feature packed and Customisable Media Player
 
-# Usage
+# Install
 
-1. Extract Twilight setup zip and install software
+1. Extract "exe/setup zip" and install Twilight
 2. Head to search bar or installation directory and run "Twilight.exe"
 
 # Update
